@@ -3,3 +3,4 @@
 *.ts text eol=lf 
 *.jsx text eol=lf 
 *.tsx text eol=lf
+.husky/* text eol=lf
